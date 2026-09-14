@@ -164,13 +164,13 @@ Possible future work includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/sisayyigezu/FUTURE_ML_01.git
+git clone https://github.com/sisayyigezu/sales-forecasting-model.git
 ```
 
 Move into the project:
 
 ```bash
-cd FUTURE_ML_01
+cd sales-forecasting-model
 ```
 
 Create a virtual environment:
